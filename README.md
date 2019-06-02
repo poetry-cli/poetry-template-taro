@@ -4,9 +4,7 @@
 
 ```bash
 npm install -g poetry-cli
-```
 
-```bash
 poetry init <project-name>
 
 ? 请选择使用的模板
